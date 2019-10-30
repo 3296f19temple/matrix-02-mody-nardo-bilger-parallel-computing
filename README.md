@@ -16,7 +16,7 @@ We locked the master branch from all contributions that are not on a separate br
 x
 
 ### Tanmay Mody
-x
+I worked on implementing the MPI matrix multiplication however I couldn't get it to compile successfully. I also worked on using parallel computing in Java. I contributed to the README.md file as well.
 
 ### Chris Bilger
 I implemented the basic matrix multiplication, SIMD optimized matrix multiplication and OpenMP algorithms. I automated the pipeline of executables and gnuplot using a Python 3 script named 'automation.py'. I also wrote up the README.md file, although we all contributed equally the write up.
